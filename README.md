@@ -1,4 +1,3 @@
-# Eleventy Starter Ghost
 
 A starter template to build completely static websites with [Ghost](https://ghost.org) & [Eleventy](https://www.11ty.io)
 
